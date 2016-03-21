@@ -1,6 +1,7 @@
 #CodeCombat
 
 已经将数据库文件放到了360云盘上。
+https://yunpan.cn/cYDDHbE65UQwt （提取码：7937）
 
 <div style="text-align:center"><img src ="https://dl.dropboxusercontent.com/u/138899/GitHub%20Wikis/readme_00.png" /></div>
 [![Build Status](https://travis-ci.org/codecombat/codecombat.png?branch=master)](https://travis-ci.org/codecombat/codecombat)
